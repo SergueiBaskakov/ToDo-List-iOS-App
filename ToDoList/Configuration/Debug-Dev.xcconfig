@@ -1,0 +1,8 @@
+//
+//  Debug-Dev.xcconfig
+//  ToDoList
+//
+//  Created by Serguei Diaz on 07.04.2025.
+//
+
+BASE_URL = dummyjson.com
